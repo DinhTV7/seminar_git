@@ -1,3 +1,3 @@
 <?php
 echo "Dinhtv7";
-echo "Dinhtv7_2";
+echo "Dinhtv7_22";
